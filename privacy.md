@@ -1,6 +1,6 @@
 # Privacy Policy — KingBot
 
-**Last updated:** 03-02-2026
+**Last updated:** 09-02-2026
 
 KingBot is a Discord bot created to help players of *Kingshot* with calculators and gift code features.
 
@@ -9,7 +9,7 @@ KingBot may store the following data:
 
 ### Discord data
 - **User ID** (Discord user identifier)
-- **Guild ID** (Discord server identifier)
+- **Guild ID** used to save message customization from the Events section on a server.
 - **Language preference (FR/EN)** used for translations and messages in Discord
 
 ### Kingshot-related data (provided by the user)
@@ -34,6 +34,7 @@ We use the data to:
 - Display profile information so users can verify their account
 - Manage gift codes and show redemption outcomes
 - Provide support through the ticket system and respond to requests
+- Allow configuration by server
 
 ## 3) Data sharing
 KingBot does **not** sell personal data.  
@@ -45,6 +46,7 @@ Data is not shared with third parties except:
 We keep data only as long as needed to provide the service:
 - **Kingshot IDs / profiles / redemption results**: stored until the user requests deletion or stops using the bot for a long period.
 - **Tickets**: stored to handle support requests and history, then removed when no longer needed.
+- **Guild ID** : as long as the bot is present on the server
 
 If you want a stricter policy, you can request deletion anytime via the ticket system.
 
@@ -68,7 +70,7 @@ Support and privacy requests are handled **via the bot’s ticket system**.
 
 # Politique de confidentialité — KingBot
 
-**Dernière mise à jour :** 03-02-2026
+**Dernière mise à jour :** 09-02-2026
 
 KingBot est un bot Discord conçu pour aider les joueurs de *Kingshot* via des calculateurs et la gestion de codes cadeaux.
 
@@ -77,7 +79,7 @@ KingBot peut stocker les données suivantes :
 
 ### Données Discord
 - **User ID** (identifiant Discord)
-- **Guild ID** (identifiant du serveur Discord)
+- **Guild ID** utilisé pour enregistrer la personnalisation du message de la section Événements sur un serveur.
 - **Langue (FR/EN)** utilisée pour les traductions et messages dans Discord
 
 ### Données Kingshot (fournies par l’utilisateur)
@@ -101,6 +103,7 @@ Ces données servent à :
 - Afficher le profil afin que l’utilisateur vérifie que c’est bien son compte
 - Gérer les codes cadeaux et afficher les résultats
 - Assurer le support via le système de tickets
+- Permettre la configuration par serveur
 
 ## 3) Partage des données
 KingBot ne vend **pas** de données personnelles.  
@@ -112,6 +115,7 @@ Les données ne sont pas partagées avec des tiers, sauf :
 Les données sont conservées uniquement le temps nécessaire :
 - **IDs Kingshot / profils / résultats** : jusqu’à demande de suppression, ou après une longue période d’inactivité.
 - **Tickets** : le temps de traiter la demande et conserver un historique utile, puis suppression lorsque ce n’est plus nécessaire.
+- **Guild ID** : tant que le Bot est présent sur le serveur
 
 Tu peux demander une suppression à tout moment via un ticket.
 
